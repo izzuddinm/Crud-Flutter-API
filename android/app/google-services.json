@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "439024886580",
+    "project_id": "bootcampmaterial-65677",
+    "storage_bucket": "bootcampmaterial-65677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439024886580:android:67136759acd2b8ddb1fb61",
+        "android_client_info": {
+          "package_name": "com.kodehive.bootcamp_material"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439024886580-hamo06r8i4131g8drubda2uhl0s0g1jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYNHRhh1M9b4286ALqtYou6qS_g4_dBHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439024886580-hamo06r8i4131g8drubda2uhl0s0g1jh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439024886580-qmhpqb1dt51c2gm7c56bfourdtqt7pds.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myFirstApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
